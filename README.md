@@ -1,11 +1,5 @@
 # YOLO Small Object Detection Project
 
-## Group Members
-- **Zeba Samiya**
-- **Vishruth Byaramadu Lokesh**
-- **Himanshu Singh Rao**
-- **Akshay Aralikatti**
-
 ## Project Overview
 This project focuses on detecting small objects, specifically traffic signs, using the YOLO (You Only Look Once) object detection model. Detecting small objects is a challenging task due to their minimal pixel representation in images, and our goal was to optimize YOLO for improved performance in this scenario.
 
